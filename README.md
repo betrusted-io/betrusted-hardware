@@ -2,9 +2,7 @@
 
 This is the Betrusted hardware design files repository.
 
-## Usage
-
-_Documentation coming soon..._
+All the designs are preliminary and have bugs. You have been warned. 
 
 ## Contribution Guidelines
 
