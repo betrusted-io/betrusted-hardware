@@ -4,6 +4,10 @@ This is the Betrusted hardware design files repository.
 
 All the designs are preliminary and have bugs. You have been warned. 
 
+![block diagram](https://raw.githubusercontent.com/betrusted-io/betrusted-io.github.io/master/assets/images/bt-blockdiag1.png)
+
+Above is a block diagram of the mainboard, as of EVT1.
+
 ## Contribution Guidelines
 
 [![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-v2.0%20adopted-ff69b4.svg)](CODE_OF_CONDUCT.md)
