@@ -6,7 +6,7 @@ All the designs are preliminary and have bugs. You have been warned.
 
 ![block diagram](betrusted_pvt_blockdiag.png)
 
-Above is a block diagram of the mainboard, as of EVT1.
+Above is a block diagram of the mainboard, as of PVT1.
 
 ## Contribution Guidelines
 
